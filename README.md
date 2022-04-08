@@ -1,4 +1,4 @@
-# Spring-Boot-Projections-and-Rolllback-Example-JPA
+# Spring-Boot-Projections-and-Rollback-Example-JPA
 
 ## Definition
 
